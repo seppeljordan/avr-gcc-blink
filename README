@@ -1,0 +1,8 @@
+AUTHOR: Sebastian Jordan <sebastian.jordan.mail@googlemail.com>
+
+This piece of code implements the famous blink example in c.  Use the
+avr-gcc compiler to complile your code.  This code should run on
+almost any board with slight modifications.  Procedures that have to
+be ported are "marked" as not portable in the comments for the
+procedures.  You may also change the avr controller model specified in
+the Makefile to make the code run on other boards.
